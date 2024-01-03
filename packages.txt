@@ -1,0 +1,5 @@
+
+# Python package installer.
+python-pip
+
+default-jre
