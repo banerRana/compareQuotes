@@ -3,7 +3,6 @@ import os
 os.environ['NUMEXPR_MAX_THREADS'] = '4'
 os.environ['NUMEXPR_NUM_THREADS'] = '2'
 import sys
-import numexpr as ne 
 
 import streamlit as st
 import PyPDF2
